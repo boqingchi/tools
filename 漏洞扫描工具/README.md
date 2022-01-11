@@ -1,2 +1,2 @@
-Thinkphp ：Thinkphp 扫描工具
-ShiroExploit: https://github.com/feihong-cs/ShiroExploit-Deprecated
+Thinkphp ：https://github.com/Lotus6/ThinkphpGUI
+ShiroExploit：https://github.com/feihong-cs/ShiroExploit-Deprecated
